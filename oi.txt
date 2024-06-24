@@ -1,0 +1,5 @@
+O formato JSON (JavaScript Object Notation) é, como o nome sugere, uma forma de notação de objetos JavaScript, de modo que eles possam ser representados de uma forma comum a diversas linguagens.
+Além disso, uma ideia que está fortemente enraizada neste formato é que ele seja facilmente trafegado entre aplicações em quaisquer protocolos, inclusive o HTTP. 
+Portanto, a principal diferença entre um objeto JavaScript padrão e um JSON é o fato do JSON ser na realidade: um texto.
+XML (Extensible Markup Language) e JSON (JavaScript Object Notation) são formatos utilizados para representar e estruturar dados, mas há diferenças na sintaxe e aplicabilidade.
+ o JSON emprega uma estrutura de pares chave-valor, sendo um formato de dados mais conciso e de fácil interpretação. É utilizado em aplicações web e APIs, sendo uma escolha comum para a transferência de dados entre cliente e servidor.
